@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: Fernando Augusto Pereira
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Fernando Augusto Pereira. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Fernando Augusto Pereira. O objetivo do projeto foi elencar 4 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 4 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
