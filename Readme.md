@@ -25,7 +25,7 @@ Etapa 3:
 - Banco de dados sem servidor escalavel.
 - Junto com o AWS EC2 Auto Scaling implementaremos um servidor Amazon Aurora MySQL para que este possa crescer ou diminuir com a demanda, assim como as maquinas virtuais com a aplicacao o banco de dados tambem podera crescer sem a nescessidade de manutencao. Deste modo assim diminuiremos os custos destas manutencao.
 
-Etapa 3: 
+Etapa 4: 
 - Amazon S3 Intelligent - Tiering
 - Armazenamente de Arquivos
 - Ferramenta para o armazenamento de arquivos de backup e em futuras features do aplicativo. Esta ferramenta consiste no armazenamento de pequenos arquivos não ultrapassando os 1000 objetos é gratuita, este armazenamento inicial deve ser suficiente mas caso haja a nescessidade é possivel criar bots para que monitorem esses valor e mantenha o bucket na carga minima.
@@ -33,7 +33,7 @@ Etapa 3:
 
 
 ## Conclusão
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado *[ AWS VPC, AWS EC2 Auto Scaling, Amazon Aurora MySQL e Amazon S3 Intelligent - Tiering]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado *AWS VPC, AWS EC2 Auto Scaling, Amazon Aurora MySQL e Amazon S3 Intelligent - Tiering*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 
 Assinatura do Responsável pelo Projeto: 
